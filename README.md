@@ -1,2 +1,1 @@
-# Front-end-talentoTech
-Pre entrega del proyecto integrador
+Acá va a ir la descripción del proyecto que todavía no defini como va a ser
