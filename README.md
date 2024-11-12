@@ -1,0 +1,1 @@
+Esta página simula lo que en algún futuro va a ser la web de la peluquería Monica Pérsigo Estilista. La idea es lograr armar una web para la venta de los productos y también mas adelante agregarle un sistema de turnos.
